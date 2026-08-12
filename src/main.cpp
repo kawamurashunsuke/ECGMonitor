@@ -27,6 +27,9 @@ ECGData readCSV()
 	
 	
 　　// Git練習用に変更
+  
+  
+   // featureブランチでの練習
 	ifstream file("ecg.csv");
 
 	if (!file)
