@@ -24,7 +24,9 @@ struct ECGData
 ECGData readCSV()
 {
 	ECGData data;
-
+	
+	
+　　// Git練習用に変更
 	ifstream file("ecg.csv");
 
 	if (!file)
